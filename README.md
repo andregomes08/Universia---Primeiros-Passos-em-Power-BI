@@ -1,2 +1,2 @@
-# Universia---Primeiros-Passos-em-Power-BI
-Repositório destinado as atividades do curso de primeiros passos em Power BI da DIO.
+# Melhoria contínua aplicada à gestão de processos em saúde: integração de Lean, PDCA/PDSA e DMAIC.
+A melhoria contínua é especialmente relevante em organizações de saúde porque os processos envolvem múltiplos atores, variabilidade, restrições de recursos, requisitos de qualidade e impacto direto na experiência e segurança do paciente. O tema foi escolhido para transformar conceitos de gestão da qualidade em um roteiro prático de análise e melhoria de processos.
